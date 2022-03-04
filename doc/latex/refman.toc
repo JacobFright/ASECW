@@ -1,0 +1,59 @@
+\@ifundefined {etoctocstyle}{\let \etoc@startlocaltoc \@gobble \let \etoc@settocdepth \@gobble \let \etoc@depthtag \@gobble \let \etoc@setlocaltop \@gobble }{}
+\contentsline {chapter}{\numberline {1}Hierarchical Index}{1}%
+\contentsline {section}{\numberline {1.1}Class Hierarchy}{1}%
+\contentsline {chapter}{\numberline {2}Class Index}{3}%
+\contentsline {section}{\numberline {2.1}Class List}{3}%
+\contentsline {chapter}{\numberline {3}Class Documentation}{5}%
+\contentsline {section}{\numberline {3.1}Change\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Password Class Reference}{5}%
+\contentsline {subsection}{\numberline {3.1.1}Constructor \& Destructor Documentation}{6}%
+\contentsline {subsubsection}{\numberline {3.1.1.1}ChangePassword()}{6}%
+\contentsline {section}{\numberline {3.2}check\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Online Class Reference}{6}%
+\contentsline {section}{\numberline {3.3}handle\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Message\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Thread Class Reference}{7}%
+\contentsline {subsection}{\numberline {3.3.1}Constructor \& Destructor Documentation}{9}%
+\contentsline {subsubsection}{\numberline {3.3.1.1}handleMessageThread()}{9}%
+\contentsline {subsection}{\numberline {3.3.2}Member Function Documentation}{9}%
+\contentsline {subsubsection}{\numberline {3.3.2.1}addContact()}{9}%
+\contentsline {subsubsection}{\numberline {3.3.2.2}createGroup()}{10}%
+\contentsline {subsubsection}{\numberline {3.3.2.3}handleMessage()}{10}%
+\contentsline {subsubsection}{\numberline {3.3.2.4}login()}{10}%
+\contentsline {subsubsection}{\numberline {3.3.2.5}logout()}{11}%
+\contentsline {subsubsection}{\numberline {3.3.2.6}regAccount()}{11}%
+\contentsline {subsubsection}{\numberline {3.3.2.7}retrieveContacts()}{11}%
+\contentsline {subsubsection}{\numberline {3.3.2.8}retrieveMessages()}{12}%
+\contentsline {subsubsection}{\numberline {3.3.2.9}searchUsers()}{12}%
+\contentsline {subsubsection}{\numberline {3.3.2.10}sendMessage()}{12}%
+\contentsline {section}{\numberline {3.4}Listen\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Thread Class Reference}{13}%
+\contentsline {subsection}{\numberline {3.4.1}Constructor \& Destructor Documentation}{14}%
+\contentsline {subsubsection}{\numberline {3.4.1.1}ListenThread()}{14}%
+\contentsline {subsection}{\numberline {3.4.2}Member Function Documentation}{14}%
+\contentsline {subsubsection}{\numberline {3.4.2.1}ReturnMessage}{14}%
+\contentsline {subsubsection}{\numberline {3.4.2.2}ReturnResult}{15}%
+\contentsline {section}{\numberline {3.5}Log\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}In Class Reference}{15}%
+\contentsline {subsection}{\numberline {3.5.1}Constructor \& Destructor Documentation}{16}%
+\contentsline {subsubsection}{\numberline {3.5.1.1}LogIn()}{16}%
+\contentsline {subsection}{\numberline {3.5.2}Member Function Documentation}{16}%
+\contentsline {subsubsection}{\numberline {3.5.2.1}handleServerResponse()}{16}%
+\contentsline {subsubsection}{\numberline {3.5.2.2}sendToServer()}{17}%
+\contentsline {section}{\numberline {3.6}Main\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Window Class Reference}{17}%
+\contentsline {subsection}{\numberline {3.6.1}Constructor \& Destructor Documentation}{18}%
+\contentsline {subsubsection}{\numberline {3.6.1.1}MainWindow()}{18}%
+\contentsline {subsection}{\numberline {3.6.2}Member Function Documentation}{19}%
+\contentsline {subsubsection}{\numberline {3.6.2.1}handleServerResponse()}{19}%
+\contentsline {subsubsection}{\numberline {3.6.2.2}retrieveContacts()}{19}%
+\contentsline {section}{\numberline {3.7}My\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Server Class Reference}{20}%
+\contentsline {subsection}{\numberline {3.7.1}Constructor \& Destructor Documentation}{21}%
+\contentsline {subsubsection}{\numberline {3.7.1.1}MyServer()}{21}%
+\contentsline {subsection}{\numberline {3.7.2}Member Function Documentation}{21}%
+\contentsline {subsubsection}{\numberline {3.7.2.1}incomingConnection()}{21}%
+\contentsline {subsubsection}{\numberline {3.7.2.2}returnMessage}{21}%
+\contentsline {section}{\numberline {3.8}Registration Class Reference}{22}%
+\contentsline {subsection}{\numberline {3.8.1}Constructor \& Destructor Documentation}{23}%
+\contentsline {subsubsection}{\numberline {3.8.1.1}Registration()}{23}%
+\contentsline {subsection}{\numberline {3.8.2}Member Function Documentation}{23}%
+\contentsline {subsubsection}{\numberline {3.8.2.1}handleServerResponse()}{23}%
+\contentsline {subsubsection}{\numberline {3.8.2.2}sendToServer()}{24}%
+\contentsline {section}{\numberline {3.9}return\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Message Class Reference}{24}%
+\contentsline {subsection}{\numberline {3.9.1}Constructor \& Destructor Documentation}{25}%
+\contentsline {subsubsection}{\numberline {3.9.1.1}returnMessage()}{25}%
+\contentsline {section}{\numberline {3.10}tests Class Reference}{25}%
+\contentsline {chapter}{Index}{27}%

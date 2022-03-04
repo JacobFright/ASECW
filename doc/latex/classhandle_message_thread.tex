@@ -1,0 +1,286 @@
+\doxysection{handle\+Message\+Thread Class Reference}
+\label{classhandle_message_thread}\index{handleMessageThread@{handleMessageThread}}
+
+
+Inheritance diagram for handle\+Message\+Thread\+:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=226pt]{classhandle_message_thread__inherit__graph}
+\end{center}
+\end{figure}
+
+
+Collaboration diagram for handle\+Message\+Thread\+:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=226pt]{classhandle_message_thread__coll__graph}
+\end{center}
+\end{figure}
+\doxysubsection*{Signals}
+\begin{DoxyCompactItemize}
+\item 
+\mbox{\label{classhandle_message_thread_af2d0fa42489d9b9a29dd11f95549091c}} 
+void {\bfseries error} (Q\+Tcp\+Socket\+::\+Socket\+Error socket\+Error)
+\item 
+\mbox{\label{classhandle_message_thread_aaf64c59cc96b5b895518d1bc4fe4ab56}} 
+void {\bfseries Return\+Result} (Q\+String\+List Result)
+\item 
+\mbox{\label{classhandle_message_thread_a8c3bb315b573195b6831536300f52411}} 
+void {\bfseries Return\+Message} (Q\+String\+List Message)
+\end{DoxyCompactItemize}
+\doxysubsection*{Public Member Functions}
+\begin{DoxyCompactItemize}
+\item 
+\textbf{ handle\+Message\+Thread} (int socket\+Descriptor, Q\+Byte\+Array Buffer, Q\+Object $\ast$parent=0)
+\begin{DoxyCompactList}\small\item\em \doxyref{handle\+Message\+Thread\+::handle\+Message\+Thread}{p.}{classhandle_message_thread_a4d21ed3d8ac516647f663e4ad2aa043c} \end{DoxyCompactList}\item 
+\mbox{\label{classhandle_message_thread_aca11f8a227d1e08c21d82bab783035c6}} 
+void \textbf{ run} ()
+\begin{DoxyCompactList}\small\item\em \doxyref{handle\+Message\+Thread\+::run}{p.}{classhandle_message_thread_aca11f8a227d1e08c21d82bab783035c6} \end{DoxyCompactList}\item 
+\mbox{\label{classhandle_message_thread_ade5b46ba94be05d8d98b2612e68fbc3e}} 
+Q\+String {\bfseries decryptpassword} (Q\+String password)
+\item 
+Q\+String\+List \textbf{ reg\+Account} (Q\+String name, Q\+String username, Q\+String password)
+\begin{DoxyCompactList}\small\item\em \doxyref{handle\+Message\+Thread\+::reg\+Account}{p.}{classhandle_message_thread_afda05cfa6d8be16d11bf2beb09bd8845} \end{DoxyCompactList}\item 
+Q\+String\+List \textbf{ retrieve\+Contacts} (Q\+String User)
+\begin{DoxyCompactList}\small\item\em \doxyref{handle\+Message\+Thread\+::retrieve\+Contacts}{p.}{classhandle_message_thread_ad3a5007f85a87c0667968cd0a4a2d987} \end{DoxyCompactList}\item 
+Q\+String\+List \textbf{ login} (Q\+String username, Q\+String password)
+\begin{DoxyCompactList}\small\item\em \doxyref{handle\+Message\+Thread\+::login}{p.}{classhandle_message_thread_aad7369f3ce61976ebec712cc6ab35b28} \end{DoxyCompactList}\item 
+Q\+String\+List \textbf{ logout} (Q\+String username)
+\begin{DoxyCompactList}\small\item\em \doxyref{handle\+Message\+Thread\+::logout}{p.}{classhandle_message_thread_a40333e42669e2301934369bb8d7a2e27} \end{DoxyCompactList}\item 
+Q\+String\+List \textbf{ search\+Users} (Q\+String User, Q\+String criteria)
+\begin{DoxyCompactList}\small\item\em \doxyref{handle\+Message\+Thread\+::search\+Users}{p.}{classhandle_message_thread_a5deeee695397101edbc9f0f27764f393} \end{DoxyCompactList}\item 
+Q\+String\+List \textbf{ add\+Contact} (Q\+String contact, Q\+String User)
+\begin{DoxyCompactList}\small\item\em \doxyref{handle\+Message\+Thread\+::add\+Contact}{p.}{classhandle_message_thread_a2a823a80c15e814c4bd666b62516a7a7} \end{DoxyCompactList}\item 
+Q\+String\+List \textbf{ retrieve\+Messages} (Q\+String chat\+Name)
+\begin{DoxyCompactList}\small\item\em \doxyref{handle\+Message\+Thread\+::retrieve\+Messages}{p.}{classhandle_message_thread_a9593ec9c476eea1c9232de058765accb} \end{DoxyCompactList}\item 
+Q\+String\+List \textbf{ create\+Group} (Q\+String\+List participants)
+\begin{DoxyCompactList}\small\item\em \doxyref{handle\+Message\+Thread\+::create\+Group}{p.}{classhandle_message_thread_a6d8aa988e02096037ee5f31055eea43e} \end{DoxyCompactList}\item 
+void \textbf{ send\+Message} (Q\+String\+List Message\+Info)
+\begin{DoxyCompactList}\small\item\em \doxyref{handle\+Message\+Thread\+::send\+Message}{p.}{classhandle_message_thread_adba1aac48405a451ffa488a0bb3fae60} \end{DoxyCompactList}\item 
+void \textbf{ handle\+Message} (Q\+Byte\+Array Data)
+\begin{DoxyCompactList}\small\item\em \doxyref{handle\+Message\+Thread\+::handle\+Message}{p.}{classhandle_message_thread_a81876683323ab78bf08340a70d4a1b8f} \end{DoxyCompactList}\end{DoxyCompactItemize}
+\doxysubsection*{Public Attributes}
+\begin{DoxyCompactItemize}
+\item 
+\mbox{\label{classhandle_message_thread_a637b6071f4e3a64cacf45b6c91c7d411}} 
+Q\+Byte\+Array {\bfseries Data}
+\end{DoxyCompactItemize}
+
+
+\doxysubsection{Constructor \& Destructor Documentation}
+\mbox{\label{classhandle_message_thread_a4d21ed3d8ac516647f663e4ad2aa043c}} 
+\index{handleMessageThread@{handleMessageThread}!handleMessageThread@{handleMessageThread}}
+\index{handleMessageThread@{handleMessageThread}!handleMessageThread@{handleMessageThread}}
+\doxysubsubsection{handleMessageThread()}
+{\footnotesize\ttfamily handle\+Message\+Thread\+::handle\+Message\+Thread (\begin{DoxyParamCaption}\item[{int}]{socket\+Descriptor,  }\item[{Q\+Byte\+Array}]{Buffer,  }\item[{Q\+Object $\ast$}]{parent = {\ttfamily 0} }\end{DoxyParamCaption})\hspace{0.3cm}{\ttfamily [explicit]}}
+
+
+
+\doxyref{handle\+Message\+Thread\+::handle\+Message\+Thread}{p.}{classhandle_message_thread_a4d21ed3d8ac516647f663e4ad2aa043c} 
+
+
+\begin{DoxyParams}{Parameters}
+{\em socket\+Descriptor} & \\
+\hline
+{\em Buffer} & \\
+\hline
+{\em parent} & \\
+\hline
+\end{DoxyParams}
+
+
+\doxysubsection{Member Function Documentation}
+\mbox{\label{classhandle_message_thread_a2a823a80c15e814c4bd666b62516a7a7}} 
+\index{handleMessageThread@{handleMessageThread}!addContact@{addContact}}
+\index{addContact@{addContact}!handleMessageThread@{handleMessageThread}}
+\doxysubsubsection{addContact()}
+{\footnotesize\ttfamily Q\+String\+List handle\+Message\+Thread\+::add\+Contact (\begin{DoxyParamCaption}\item[{Q\+String}]{contact,  }\item[{Q\+String}]{User }\end{DoxyParamCaption})}
+
+
+
+\doxyref{handle\+Message\+Thread\+::add\+Contact}{p.}{classhandle_message_thread_a2a823a80c15e814c4bd666b62516a7a7} 
+
+
+\begin{DoxyParams}{Parameters}
+{\em contact} & \\
+\hline
+{\em User} & \\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{Returns}
+
+\end{DoxyReturn}
+\mbox{\label{classhandle_message_thread_a6d8aa988e02096037ee5f31055eea43e}} 
+\index{handleMessageThread@{handleMessageThread}!createGroup@{createGroup}}
+\index{createGroup@{createGroup}!handleMessageThread@{handleMessageThread}}
+\doxysubsubsection{createGroup()}
+{\footnotesize\ttfamily Q\+String\+List handle\+Message\+Thread\+::create\+Group (\begin{DoxyParamCaption}\item[{Q\+String\+List}]{participants }\end{DoxyParamCaption})}
+
+
+
+\doxyref{handle\+Message\+Thread\+::create\+Group}{p.}{classhandle_message_thread_a6d8aa988e02096037ee5f31055eea43e} 
+
+
+\begin{DoxyParams}{Parameters}
+{\em participants} & \\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{Returns}
+
+\end{DoxyReturn}
+\mbox{\label{classhandle_message_thread_a81876683323ab78bf08340a70d4a1b8f}} 
+\index{handleMessageThread@{handleMessageThread}!handleMessage@{handleMessage}}
+\index{handleMessage@{handleMessage}!handleMessageThread@{handleMessageThread}}
+\doxysubsubsection{handleMessage()}
+{\footnotesize\ttfamily void handle\+Message\+Thread\+::handle\+Message (\begin{DoxyParamCaption}\item[{Q\+Byte\+Array}]{Data }\end{DoxyParamCaption})}
+
+
+
+\doxyref{handle\+Message\+Thread\+::handle\+Message}{p.}{classhandle_message_thread_a81876683323ab78bf08340a70d4a1b8f} 
+
+
+\begin{DoxyParams}{Parameters}
+{\em Data} & \\
+\hline
+\end{DoxyParams}
+\mbox{\label{classhandle_message_thread_aad7369f3ce61976ebec712cc6ab35b28}} 
+\index{handleMessageThread@{handleMessageThread}!login@{login}}
+\index{login@{login}!handleMessageThread@{handleMessageThread}}
+\doxysubsubsection{login()}
+{\footnotesize\ttfamily Q\+String\+List handle\+Message\+Thread\+::login (\begin{DoxyParamCaption}\item[{Q\+String}]{username,  }\item[{Q\+String}]{password }\end{DoxyParamCaption})}
+
+
+
+\doxyref{handle\+Message\+Thread\+::login}{p.}{classhandle_message_thread_aad7369f3ce61976ebec712cc6ab35b28} 
+
+
+\begin{DoxyParams}{Parameters}
+{\em username} & \\
+\hline
+{\em password} & \\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{Returns}
+
+\end{DoxyReturn}
+\mbox{\label{classhandle_message_thread_a40333e42669e2301934369bb8d7a2e27}} 
+\index{handleMessageThread@{handleMessageThread}!logout@{logout}}
+\index{logout@{logout}!handleMessageThread@{handleMessageThread}}
+\doxysubsubsection{logout()}
+{\footnotesize\ttfamily Q\+String\+List handle\+Message\+Thread\+::logout (\begin{DoxyParamCaption}\item[{Q\+String}]{username }\end{DoxyParamCaption})}
+
+
+
+\doxyref{handle\+Message\+Thread\+::logout}{p.}{classhandle_message_thread_a40333e42669e2301934369bb8d7a2e27} 
+
+
+\begin{DoxyParams}{Parameters}
+{\em username} & \\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{Returns}
+
+\end{DoxyReturn}
+\mbox{\label{classhandle_message_thread_afda05cfa6d8be16d11bf2beb09bd8845}} 
+\index{handleMessageThread@{handleMessageThread}!regAccount@{regAccount}}
+\index{regAccount@{regAccount}!handleMessageThread@{handleMessageThread}}
+\doxysubsubsection{regAccount()}
+{\footnotesize\ttfamily Q\+String\+List handle\+Message\+Thread\+::reg\+Account (\begin{DoxyParamCaption}\item[{Q\+String}]{name,  }\item[{Q\+String}]{username,  }\item[{Q\+String}]{password }\end{DoxyParamCaption})}
+
+
+
+\doxyref{handle\+Message\+Thread\+::reg\+Account}{p.}{classhandle_message_thread_afda05cfa6d8be16d11bf2beb09bd8845} 
+
+
+\begin{DoxyParams}{Parameters}
+{\em name} & \\
+\hline
+{\em username} & \\
+\hline
+{\em password} & \\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{Returns}
+
+\end{DoxyReturn}
+\mbox{\label{classhandle_message_thread_ad3a5007f85a87c0667968cd0a4a2d987}} 
+\index{handleMessageThread@{handleMessageThread}!retrieveContacts@{retrieveContacts}}
+\index{retrieveContacts@{retrieveContacts}!handleMessageThread@{handleMessageThread}}
+\doxysubsubsection{retrieveContacts()}
+{\footnotesize\ttfamily Q\+String\+List handle\+Message\+Thread\+::retrieve\+Contacts (\begin{DoxyParamCaption}\item[{Q\+String}]{User }\end{DoxyParamCaption})}
+
+
+
+\doxyref{handle\+Message\+Thread\+::retrieve\+Contacts}{p.}{classhandle_message_thread_ad3a5007f85a87c0667968cd0a4a2d987} 
+
+
+\begin{DoxyParams}{Parameters}
+{\em User} & \\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{Returns}
+
+\end{DoxyReturn}
+\mbox{\label{classhandle_message_thread_a9593ec9c476eea1c9232de058765accb}} 
+\index{handleMessageThread@{handleMessageThread}!retrieveMessages@{retrieveMessages}}
+\index{retrieveMessages@{retrieveMessages}!handleMessageThread@{handleMessageThread}}
+\doxysubsubsection{retrieveMessages()}
+{\footnotesize\ttfamily Q\+String\+List handle\+Message\+Thread\+::retrieve\+Messages (\begin{DoxyParamCaption}\item[{Q\+String}]{chat\+Name }\end{DoxyParamCaption})}
+
+
+
+\doxyref{handle\+Message\+Thread\+::retrieve\+Messages}{p.}{classhandle_message_thread_a9593ec9c476eea1c9232de058765accb} 
+
+
+\begin{DoxyParams}{Parameters}
+{\em chat\+Name} & \\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{Returns}
+
+\end{DoxyReturn}
+\mbox{\label{classhandle_message_thread_a5deeee695397101edbc9f0f27764f393}} 
+\index{handleMessageThread@{handleMessageThread}!searchUsers@{searchUsers}}
+\index{searchUsers@{searchUsers}!handleMessageThread@{handleMessageThread}}
+\doxysubsubsection{searchUsers()}
+{\footnotesize\ttfamily Q\+String\+List handle\+Message\+Thread\+::search\+Users (\begin{DoxyParamCaption}\item[{Q\+String}]{user,  }\item[{Q\+String}]{criteria }\end{DoxyParamCaption})}
+
+
+
+\doxyref{handle\+Message\+Thread\+::search\+Users}{p.}{classhandle_message_thread_a5deeee695397101edbc9f0f27764f393} 
+
+
+\begin{DoxyParams}{Parameters}
+{\em user} & \\
+\hline
+{\em criteria} & \\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{Returns}
+
+\end{DoxyReturn}
+\mbox{\label{classhandle_message_thread_adba1aac48405a451ffa488a0bb3fae60}} 
+\index{handleMessageThread@{handleMessageThread}!sendMessage@{sendMessage}}
+\index{sendMessage@{sendMessage}!handleMessageThread@{handleMessageThread}}
+\doxysubsubsection{sendMessage()}
+{\footnotesize\ttfamily void handle\+Message\+Thread\+::send\+Message (\begin{DoxyParamCaption}\item[{Q\+String\+List}]{Message\+Info }\end{DoxyParamCaption})}
+
+
+
+\doxyref{handle\+Message\+Thread\+::send\+Message}{p.}{classhandle_message_thread_adba1aac48405a451ffa488a0bb3fae60} 
+
+
+\begin{DoxyParams}{Parameters}
+{\em Message\+Info} & \\
+\hline
+\end{DoxyParams}
+
+
+The documentation for this class was generated from the following files\+:\begin{DoxyCompactItemize}
+\item 
+Server/handlemessagethread.\+h\item 
+Server/handlemessagethread.\+cpp\end{DoxyCompactItemize}

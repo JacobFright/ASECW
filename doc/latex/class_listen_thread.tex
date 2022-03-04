@@ -1,0 +1,119 @@
+\doxysection{Listen\+Thread Class Reference}
+\label{class_listen_thread}\index{ListenThread@{ListenThread}}
+
+
+Inheritance diagram for Listen\+Thread\+:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=226pt]{class_listen_thread__inherit__graph}
+\end{center}
+\end{figure}
+
+
+Collaboration diagram for Listen\+Thread\+:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=226pt]{class_listen_thread__coll__graph}
+\end{center}
+\end{figure}
+\doxysubsection*{Public Slots}
+\begin{DoxyCompactItemize}
+\item 
+\mbox{\label{class_listen_thread_abc8956c46061d20b863f5508e24bf30d}} 
+void \textbf{ ready\+Read} ()
+\begin{DoxyCompactList}\small\item\em \doxyref{Listen\+Thread\+::ready\+Read}{p.}{class_listen_thread_abc8956c46061d20b863f5508e24bf30d}. \end{DoxyCompactList}\item 
+\mbox{\label{class_listen_thread_ae175c85f2d21d724603972fd2ec149c7}} 
+void \textbf{ disconnected} ()
+\begin{DoxyCompactList}\small\item\em \doxyref{Listen\+Thread\+::disconnected}{p.}{class_listen_thread_ae175c85f2d21d724603972fd2ec149c7}. \end{DoxyCompactList}\item 
+void \textbf{ Return\+Result} (Q\+String\+List Result)
+\begin{DoxyCompactList}\small\item\em \doxyref{Listen\+Thread\+::\+Return\+Result}{p.}{class_listen_thread_a271ee8a0844ec5c019d74141ca5337a7}. \end{DoxyCompactList}\item 
+void \textbf{ Return\+Message} (Q\+String\+List Result)
+\begin{DoxyCompactList}\small\item\em \doxyref{Listen\+Thread\+::\+Return\+Message}{p.}{class_listen_thread_afd6179569061a035a1bf43f95407232d}. \end{DoxyCompactList}\end{DoxyCompactItemize}
+\doxysubsection*{Signals}
+\begin{DoxyCompactItemize}
+\item 
+\mbox{\label{class_listen_thread_a56b75e79dfe40b80cac36209237f8037}} 
+void {\bfseries error} (Q\+Tcp\+Socket\+::\+Socket\+Error socket\+Error)
+\item 
+\mbox{\label{class_listen_thread_a956b855abd128bdcf9944fdd21ce39fc}} 
+void {\bfseries Result} (Q\+Byte\+Array)
+\item 
+\mbox{\label{class_listen_thread_a7d3d1172b26f52d161ffa33bda68d322}} 
+void {\bfseries update} (Q\+String update)
+\item 
+\mbox{\label{class_listen_thread_a6c62e3670f288a0e29d9200c76c1f454}} 
+void {\bfseries send\+Message} (Q\+String\+List message)
+\end{DoxyCompactItemize}
+\doxysubsection*{Public Member Functions}
+\begin{DoxyCompactItemize}
+\item 
+\textbf{ Listen\+Thread} (Q\+Tcp\+Socket $\ast$socket, int ID, Q\+Object $\ast$parent=0)
+\begin{DoxyCompactList}\small\item\em \doxyref{Listen\+Thread\+::\+Listen\+Thread}{p.}{class_listen_thread_a0e2cc5bceccf34cbf2cd9faeca2fd986}. \end{DoxyCompactList}\item 
+\mbox{\label{class_listen_thread_a3f34addcc01d098bf3959b5918b46392}} 
+void \textbf{ run} ()
+\begin{DoxyCompactList}\small\item\em \doxyref{Listen\+Thread\+::run}{p.}{class_listen_thread_a3f34addcc01d098bf3959b5918b46392}. \end{DoxyCompactList}\end{DoxyCompactItemize}
+
+
+\doxysubsection{Constructor \& Destructor Documentation}
+\mbox{\label{class_listen_thread_a0e2cc5bceccf34cbf2cd9faeca2fd986}} 
+\index{ListenThread@{ListenThread}!ListenThread@{ListenThread}}
+\index{ListenThread@{ListenThread}!ListenThread@{ListenThread}}
+\doxysubsubsection{ListenThread()}
+{\footnotesize\ttfamily Listen\+Thread\+::\+Listen\+Thread (\begin{DoxyParamCaption}\item[{Q\+Tcp\+Socket $\ast$}]{socket,  }\item[{int}]{ID,  }\item[{Q\+Object $\ast$}]{parent = {\ttfamily 0} }\end{DoxyParamCaption})\hspace{0.3cm}{\ttfamily [explicit]}}
+
+
+
+\doxyref{Listen\+Thread\+::\+Listen\+Thread}{p.}{class_listen_thread_a0e2cc5bceccf34cbf2cd9faeca2fd986}. 
+
+
+\begin{DoxyParams}{Parameters}
+{\em socket} & \\
+\hline
+{\em ID} & \\
+\hline
+{\em parent} & \\
+\hline
+\end{DoxyParams}
+
+
+\doxysubsection{Member Function Documentation}
+\mbox{\label{class_listen_thread_afd6179569061a035a1bf43f95407232d}} 
+\index{ListenThread@{ListenThread}!ReturnMessage@{ReturnMessage}}
+\index{ReturnMessage@{ReturnMessage}!ListenThread@{ListenThread}}
+\doxysubsubsection{ReturnMessage}
+{\footnotesize\ttfamily void Listen\+Thread\+::\+Return\+Message (\begin{DoxyParamCaption}\item[{Q\+String\+List}]{Result }\end{DoxyParamCaption})\hspace{0.3cm}{\ttfamily [slot]}}
+
+
+
+\doxyref{Listen\+Thread\+::\+Return\+Message}{p.}{class_listen_thread_afd6179569061a035a1bf43f95407232d}. 
+
+
+\begin{DoxyParams}{Parameters}
+{\em Result} & \\
+\hline
+\end{DoxyParams}
+\mbox{\label{class_listen_thread_a271ee8a0844ec5c019d74141ca5337a7}} 
+\index{ListenThread@{ListenThread}!ReturnResult@{ReturnResult}}
+\index{ReturnResult@{ReturnResult}!ListenThread@{ListenThread}}
+\doxysubsubsection{ReturnResult}
+{\footnotesize\ttfamily void Listen\+Thread\+::\+Return\+Result (\begin{DoxyParamCaption}\item[{Q\+String\+List}]{Result }\end{DoxyParamCaption})\hspace{0.3cm}{\ttfamily [slot]}}
+
+
+
+\doxyref{Listen\+Thread\+::\+Return\+Result}{p.}{class_listen_thread_a271ee8a0844ec5c019d74141ca5337a7}. 
+
+
+\begin{DoxyParams}{Parameters}
+{\em Result} & \\
+\hline
+\end{DoxyParams}
+
+
+The documentation for this class was generated from the following files\+:\begin{DoxyCompactItemize}
+\item 
+Server/listenthread.\+h\item 
+Server/listenthread.\+cpp\end{DoxyCompactItemize}

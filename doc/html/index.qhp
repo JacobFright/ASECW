@@ -1,0 +1,347 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QtHelpProject version="1.0">
+  <namespace>org.doxygen.Project</namespace>
+  <virtualFolder>doc</virtualFolder>
+  <filterSection>
+    <filterAttribute>doxygen</filterAttribute>
+    <toc>
+      <section title="ASECourseWork" ref="index.html">
+        <section title="Classes" ref="annotated.html">
+          <section title="Class List" ref="annotated.html">
+            <section title="ChangePassword" ref="class_change_password.html">
+              <section title="ChangePassword" ref="class_change_password.html#a85b4a57f1e55caf940846c6e29c12a76" />
+              <section title="~ChangePassword" ref="class_change_password.html#a3404eee74b7fefaf62698f71c53f9fca" />
+            </section>
+            <section title="checkOnline" ref="classcheck_online.html">
+              <section title="checkOnline" ref="classcheck_online.html#ab5493eadb5c5a126e27b162cc7815763" />
+              <section title="checkOnline" ref="classcheck_online.html#a5e8673529a595eb70a700d8954fd1fbc" />
+            </section>
+            <section title="handleMessageThread" ref="classhandle_message_thread.html">
+              <section title="handleMessageThread" ref="classhandle_message_thread.html#a4d21ed3d8ac516647f663e4ad2aa043c" />
+              <section title="handleMessageThread" ref="classhandle_message_thread.html#a2f358cbce814148ff8f113fac2c227cd" />
+              <section title="addContact" ref="classhandle_message_thread.html#a2a823a80c15e814c4bd666b62516a7a7" />
+              <section title="createGroup" ref="classhandle_message_thread.html#a6d8aa988e02096037ee5f31055eea43e" />
+              <section title="decryptpassword" ref="classhandle_message_thread.html#ade5b46ba94be05d8d98b2612e68fbc3e" />
+              <section title="error" ref="classhandle_message_thread.html#af2d0fa42489d9b9a29dd11f95549091c" />
+              <section title="handleMessage" ref="classhandle_message_thread.html#a81876683323ab78bf08340a70d4a1b8f" />
+              <section title="login" ref="classhandle_message_thread.html#aad7369f3ce61976ebec712cc6ab35b28" />
+              <section title="logout" ref="classhandle_message_thread.html#a40333e42669e2301934369bb8d7a2e27" />
+              <section title="regAccount" ref="classhandle_message_thread.html#afda05cfa6d8be16d11bf2beb09bd8845" />
+              <section title="retrieveContacts" ref="classhandle_message_thread.html#ad3a5007f85a87c0667968cd0a4a2d987" />
+              <section title="retrieveMessages" ref="classhandle_message_thread.html#a9593ec9c476eea1c9232de058765accb" />
+              <section title="ReturnMessage" ref="classhandle_message_thread.html#a8c3bb315b573195b6831536300f52411" />
+              <section title="ReturnResult" ref="classhandle_message_thread.html#aaf64c59cc96b5b895518d1bc4fe4ab56" />
+              <section title="run" ref="classhandle_message_thread.html#aca11f8a227d1e08c21d82bab783035c6" />
+              <section title="searchUsers" ref="classhandle_message_thread.html#a5deeee695397101edbc9f0f27764f393" />
+              <section title="sendMessage" ref="classhandle_message_thread.html#adba1aac48405a451ffa488a0bb3fae60" />
+              <section title="Data" ref="classhandle_message_thread.html#a637b6071f4e3a64cacf45b6c91c7d411" />
+            </section>
+            <section title="ListenThread" ref="class_listen_thread.html">
+              <section title="ListenThread" ref="class_listen_thread.html#a0e2cc5bceccf34cbf2cd9faeca2fd986" />
+              <section title="ListenThread" ref="class_listen_thread.html#acbc83a0978d3c20b9e3ab002bcfcd881" />
+              <section title="disconnected" ref="class_listen_thread.html#ae175c85f2d21d724603972fd2ec149c7" />
+              <section title="error" ref="class_listen_thread.html#a56b75e79dfe40b80cac36209237f8037" />
+              <section title="readyRead" ref="class_listen_thread.html#abc8956c46061d20b863f5508e24bf30d" />
+              <section title="Result" ref="class_listen_thread.html#a956b855abd128bdcf9944fdd21ce39fc" />
+              <section title="ReturnMessage" ref="class_listen_thread.html#afd6179569061a035a1bf43f95407232d" />
+              <section title="ReturnResult" ref="class_listen_thread.html#a271ee8a0844ec5c019d74141ca5337a7" />
+              <section title="run" ref="class_listen_thread.html#a3f34addcc01d098bf3959b5918b46392" />
+              <section title="sendMessage" ref="class_listen_thread.html#a6c62e3670f288a0e29d9200c76c1f454" />
+              <section title="update" ref="class_listen_thread.html#a7d3d1172b26f52d161ffa33bda68d322" />
+            </section>
+            <section title="LogIn" ref="class_log_in.html">
+              <section title="LogIn" ref="class_log_in.html#a75cf60c2599946f06363215e09e53548" />
+              <section title="~LogIn" ref="class_log_in.html#a6250ffec4776f233165bbbf090070f8f" />
+              <section title="connected" ref="class_log_in.html#acc2e53b265dc09c6507226bab5624c1e" />
+              <section title="disconnected" ref="class_log_in.html#ac25d6d5ee6d8270fc77f92264c7dc2ad" />
+              <section title="handleServerResponse" ref="class_log_in.html#a2d46b38c972b28c11249f67c6a6bc2b1" />
+              <section title="readyRead" ref="class_log_in.html#aa8ee13f173ce5ccf8a90380ba913095f" />
+              <section title="sendToServer" ref="class_log_in.html#aa3b670d28f341904c8c307e15eabb0b4" />
+            </section>
+            <section title="MainWindow" ref="class_main_window.html">
+              <section title="MainWindow" ref="class_main_window.html#aef27c23a93151ff2b0e1c86150fd395d" />
+              <section title="~MainWindow" ref="class_main_window.html#ae98d00a93bc118200eeef9f9bba1dba7" />
+              <section title="connected" ref="class_main_window.html#ab0f207dba0ad81324d034d29988f8fd3" />
+              <section title="disconnected" ref="class_main_window.html#aa4f105b7d0e0c56c5051e89710c852d6" />
+              <section title="handleServerResponse" ref="class_main_window.html#a41fca5ea8636994a6905d3ff3802121d" />
+              <section title="retrieveContacts" ref="class_main_window.html#acace84d474c050695b7b8ff4661d859e" />
+            </section>
+            <section title="MyServer" ref="class_my_server.html">
+              <section title="MyServer" ref="class_my_server.html#ac9e5ca7b551a5df90d5b39260f7e5404" />
+              <section title="createDatabase" ref="class_my_server.html#a4a699aa72b95bbe86bd16e73b4b42130" />
+              <section title="incomingConnection" ref="class_my_server.html#a635c7a1e6817285ffb1a2a3842df010b" />
+              <section title="returnMessage" ref="class_my_server.html#a848bf35274afba43b14a38bb9cbaab47" />
+              <section title="StartServer" ref="class_my_server.html#a1fe66d7a388145958a4a9c06e7aed7db" />
+            </section>
+            <section title="Registration" ref="class_registration.html">
+              <section title="Registration" ref="class_registration.html#a50a556c896eed95fb2aa668702b2ded6" />
+              <section title="~Registration" ref="class_registration.html#af0515fb621bcf46276090b7b26f88fc4" />
+              <section title="connected" ref="class_registration.html#aa848aacae4a305b4ba348223d80d7db6" />
+              <section title="disconnected" ref="class_registration.html#a01b3c4ba99cc906718918566567383c0" />
+              <section title="handleServerResponse" ref="class_registration.html#ab670418806bb81a80689e96b6f062512" />
+              <section title="sendToServer" ref="class_registration.html#ad75e639af99114efc1e39c669e1305d2" />
+            </section>
+            <section title="returnMessage" ref="classreturn_message.html">
+              <section title="returnMessage" ref="classreturn_message.html#aba2c67d637c8488f6cff8390b6410427" />
+              <section title="run" ref="classreturn_message.html#a1dd87a9363d18985368422b757ce869f" />
+            </section>
+            <section title="tests" ref="classtests.html">
+              <section title="tests" ref="classtests.html#a5b12b0c60a48fe89339d14f6217bf20b" />
+            </section>
+          </section>
+          <section title="Class Index" ref="classes.html" />
+          <section title="Class Hierarchy" ref="hierarchy.html">
+            <section title="QDialog">
+              <section title="ChangePassword" ref="class_change_password.html" />
+              <section title="Registration" ref="class_registration.html" />
+            </section>
+            <section title="QMainWindow">
+              <section title="LogIn" ref="class_log_in.html" />
+              <section title="MainWindow" ref="class_main_window.html" />
+            </section>
+            <section title="QObject">
+              <section title="tests" ref="classtests.html" />
+            </section>
+            <section title="QRunnable">
+              <section title="checkOnline" ref="classcheck_online.html" />
+              <section title="handleMessageThread" ref="classhandle_message_thread.html" />
+              <section title="ListenThread" ref="class_listen_thread.html" />
+              <section title="returnMessage" ref="classreturn_message.html" />
+            </section>
+            <section title="QTcpServer">
+              <section title="MyServer" ref="class_my_server.html" />
+            </section>
+            <section title="QThread">
+              <section title="checkOnline" ref="classcheck_online.html" />
+              <section title="handleMessageThread" ref="classhandle_message_thread.html" />
+              <section title="ListenThread" ref="class_listen_thread.html" />
+              <section title="returnMessage" ref="classreturn_message.html" />
+            </section>
+          </section>
+          <section title="Class Members" ref="functions.html">
+            <section title="All" ref="functions.html" />
+            <section title="Functions" ref="functions_func.html" />
+          </section>
+        </section>
+        <section title="Files" ref="files.html">
+          <section title="File List" ref="files.html">
+            <section title="ASECW" ref="dir_ec34c6d74e09f6a41b9650477fd5d153.html">
+              <section title="changepassword.h" ref="changepassword_8h_source.html" />
+              <section title="checkonline.h" ref="checkonline_8h_source.html" />
+              <section title="login.h" ref="login_8h_source.html" />
+              <section title="mainwindow.h" ref="mainwindow_8h_source.html" />
+              <section title="registration.h" ref="registration_8h_source.html" />
+            </section>
+            <section title="Server" ref="dir_1a445cb237d74f7a5f8d11ec3b0585cc.html">
+              <section title="handlemessagethread.h" ref="handlemessagethread_8h_source.html" />
+              <section title="listenthread.h" ref="listenthread_8h_source.html" />
+              <section title="myserver.h" ref="myserver_8h_source.html" />
+              <section title="returnmessage.h" ref="returnmessage_8h_source.html" />
+              <section title="tests.h" ref="tests_8h_source.html" />
+            </section>
+          </section>
+        </section>
+      </section>
+    </toc>
+    <keywords>
+      <keyword name="ChangePassword" id="ChangePassword" ref="class_change_password.html" />
+      <keyword name="ChangePassword" id="ChangePassword::ChangePassword" ref="class_change_password.html#a85b4a57f1e55caf940846c6e29c12a76" />
+      <keyword name="~ChangePassword" id="ChangePassword::~ChangePassword" ref="class_change_password.html#a3404eee74b7fefaf62698f71c53f9fca" />
+      <keyword name="checkOnline" id="checkOnline" ref="classcheck_online.html" />
+      <keyword name="checkOnline" id="checkOnline::checkOnline" ref="classcheck_online.html#ab5493eadb5c5a126e27b162cc7815763" />
+      <keyword name="handleMessageThread" id="handleMessageThread" ref="classhandle_message_thread.html" />
+      <keyword name="error" id="handleMessageThread::error" ref="classhandle_message_thread.html#af2d0fa42489d9b9a29dd11f95549091c" />
+      <keyword name="ReturnResult" id="handleMessageThread::ReturnResult" ref="classhandle_message_thread.html#aaf64c59cc96b5b895518d1bc4fe4ab56" />
+      <keyword name="ReturnMessage" id="handleMessageThread::ReturnMessage" ref="classhandle_message_thread.html#a8c3bb315b573195b6831536300f52411" />
+      <keyword name="handleMessageThread" id="handleMessageThread::handleMessageThread" ref="classhandle_message_thread.html#a4d21ed3d8ac516647f663e4ad2aa043c" />
+      <keyword name="run" id="handleMessageThread::run" ref="classhandle_message_thread.html#aca11f8a227d1e08c21d82bab783035c6" />
+      <keyword name="decryptpassword" id="handleMessageThread::decryptpassword" ref="classhandle_message_thread.html#ade5b46ba94be05d8d98b2612e68fbc3e" />
+      <keyword name="regAccount" id="handleMessageThread::regAccount" ref="classhandle_message_thread.html#afda05cfa6d8be16d11bf2beb09bd8845" />
+      <keyword name="retrieveContacts" id="handleMessageThread::retrieveContacts" ref="classhandle_message_thread.html#ad3a5007f85a87c0667968cd0a4a2d987" />
+      <keyword name="login" id="handleMessageThread::login" ref="classhandle_message_thread.html#aad7369f3ce61976ebec712cc6ab35b28" />
+      <keyword name="logout" id="handleMessageThread::logout" ref="classhandle_message_thread.html#a40333e42669e2301934369bb8d7a2e27" />
+      <keyword name="searchUsers" id="handleMessageThread::searchUsers" ref="classhandle_message_thread.html#a5deeee695397101edbc9f0f27764f393" />
+      <keyword name="addContact" id="handleMessageThread::addContact" ref="classhandle_message_thread.html#a2a823a80c15e814c4bd666b62516a7a7" />
+      <keyword name="retrieveMessages" id="handleMessageThread::retrieveMessages" ref="classhandle_message_thread.html#a9593ec9c476eea1c9232de058765accb" />
+      <keyword name="createGroup" id="handleMessageThread::createGroup" ref="classhandle_message_thread.html#a6d8aa988e02096037ee5f31055eea43e" />
+      <keyword name="sendMessage" id="handleMessageThread::sendMessage" ref="classhandle_message_thread.html#adba1aac48405a451ffa488a0bb3fae60" />
+      <keyword name="handleMessage" id="handleMessageThread::handleMessage" ref="classhandle_message_thread.html#a81876683323ab78bf08340a70d4a1b8f" />
+      <keyword name="Data" id="handleMessageThread::Data" ref="classhandle_message_thread.html#a637b6071f4e3a64cacf45b6c91c7d411" />
+      <keyword name="ListenThread" id="ListenThread" ref="class_listen_thread.html" />
+      <keyword name="readyRead" id="ListenThread::readyRead" ref="class_listen_thread.html#abc8956c46061d20b863f5508e24bf30d" />
+      <keyword name="disconnected" id="ListenThread::disconnected" ref="class_listen_thread.html#ae175c85f2d21d724603972fd2ec149c7" />
+      <keyword name="ReturnResult" id="ListenThread::ReturnResult" ref="class_listen_thread.html#a271ee8a0844ec5c019d74141ca5337a7" />
+      <keyword name="ReturnMessage" id="ListenThread::ReturnMessage" ref="class_listen_thread.html#afd6179569061a035a1bf43f95407232d" />
+      <keyword name="error" id="ListenThread::error" ref="class_listen_thread.html#a56b75e79dfe40b80cac36209237f8037" />
+      <keyword name="Result" id="ListenThread::Result" ref="class_listen_thread.html#a956b855abd128bdcf9944fdd21ce39fc" />
+      <keyword name="update" id="ListenThread::update" ref="class_listen_thread.html#a7d3d1172b26f52d161ffa33bda68d322" />
+      <keyword name="sendMessage" id="ListenThread::sendMessage" ref="class_listen_thread.html#a6c62e3670f288a0e29d9200c76c1f454" />
+      <keyword name="ListenThread" id="ListenThread::ListenThread" ref="class_listen_thread.html#a0e2cc5bceccf34cbf2cd9faeca2fd986" />
+      <keyword name="run" id="ListenThread::run" ref="class_listen_thread.html#a3f34addcc01d098bf3959b5918b46392" />
+      <keyword name="LogIn" id="LogIn" ref="class_log_in.html" />
+      <keyword name="connected" id="LogIn::connected" ref="class_log_in.html#acc2e53b265dc09c6507226bab5624c1e" />
+      <keyword name="readyRead" id="LogIn::readyRead" ref="class_log_in.html#aa8ee13f173ce5ccf8a90380ba913095f" />
+      <keyword name="disconnected" id="LogIn::disconnected" ref="class_log_in.html#ac25d6d5ee6d8270fc77f92264c7dc2ad" />
+      <keyword name="LogIn" id="LogIn::LogIn" ref="class_log_in.html#a75cf60c2599946f06363215e09e53548" />
+      <keyword name="sendToServer" id="LogIn::sendToServer" ref="class_log_in.html#aa3b670d28f341904c8c307e15eabb0b4" />
+      <keyword name="handleServerResponse" id="LogIn::handleServerResponse" ref="class_log_in.html#a2d46b38c972b28c11249f67c6a6bc2b1" />
+      <keyword name="~LogIn" id="LogIn::~LogIn" ref="class_log_in.html#a6250ffec4776f233165bbbf090070f8f" />
+      <keyword name="MainWindow" id="MainWindow" ref="class_main_window.html" />
+      <keyword name="connected" id="MainWindow::connected" ref="class_main_window.html#ab0f207dba0ad81324d034d29988f8fd3" />
+      <keyword name="disconnected" id="MainWindow::disconnected" ref="class_main_window.html#aa4f105b7d0e0c56c5051e89710c852d6" />
+      <keyword name="MainWindow" id="MainWindow::MainWindow" ref="class_main_window.html#aef27c23a93151ff2b0e1c86150fd395d" />
+      <keyword name="retrieveContacts" id="MainWindow::retrieveContacts" ref="class_main_window.html#acace84d474c050695b7b8ff4661d859e" />
+      <keyword name="handleServerResponse" id="MainWindow::handleServerResponse" ref="class_main_window.html#a41fca5ea8636994a6905d3ff3802121d" />
+      <keyword name="~MainWindow" id="MainWindow::~MainWindow" ref="class_main_window.html#ae98d00a93bc118200eeef9f9bba1dba7" />
+      <keyword name="MyServer" id="MyServer" ref="class_my_server.html" />
+      <keyword name="returnMessage" id="MyServer::returnMessage" ref="class_my_server.html#a848bf35274afba43b14a38bb9cbaab47" />
+      <keyword name="MyServer" id="MyServer::MyServer" ref="class_my_server.html#ac9e5ca7b551a5df90d5b39260f7e5404" />
+      <keyword name="createDatabase" id="MyServer::createDatabase" ref="class_my_server.html#a4a699aa72b95bbe86bd16e73b4b42130" />
+      <keyword name="StartServer" id="MyServer::StartServer" ref="class_my_server.html#a1fe66d7a388145958a4a9c06e7aed7db" />
+      <keyword name="incomingConnection" id="MyServer::incomingConnection" ref="class_my_server.html#a635c7a1e6817285ffb1a2a3842df010b" />
+      <keyword name="Registration" id="Registration" ref="class_registration.html" />
+      <keyword name="connected" id="Registration::connected" ref="class_registration.html#aa848aacae4a305b4ba348223d80d7db6" />
+      <keyword name="disconnected" id="Registration::disconnected" ref="class_registration.html#a01b3c4ba99cc906718918566567383c0" />
+      <keyword name="Registration" id="Registration::Registration" ref="class_registration.html#a50a556c896eed95fb2aa668702b2ded6" />
+      <keyword name="sendToServer" id="Registration::sendToServer" ref="class_registration.html#ad75e639af99114efc1e39c669e1305d2" />
+      <keyword name="handleServerResponse" id="Registration::handleServerResponse" ref="class_registration.html#ab670418806bb81a80689e96b6f062512" />
+      <keyword name="~Registration" id="Registration::~Registration" ref="class_registration.html#af0515fb621bcf46276090b7b26f88fc4" />
+      <keyword name="returnMessage" id="returnMessage" ref="classreturn_message.html" />
+      <keyword name="returnMessage" id="returnMessage::returnMessage" ref="classreturn_message.html#aba2c67d637c8488f6cff8390b6410427" />
+      <keyword name="run" id="returnMessage::run" ref="classreturn_message.html#a1dd87a9363d18985368422b757ce869f" />
+      <keyword name="tests" id="tests" ref="classtests.html" />
+      <keyword name="tests" id="tests::tests" ref="classtests.html#a5b12b0c60a48fe89339d14f6217bf20b" />
+    </keywords>
+    <files>
+      <file>tabs.css</file>
+      <file>tab_a.png</file>
+      <file>tab_b.png</file>
+      <file>tab_h.png</file>
+      <file>tab_s.png</file>
+      <file>nav_h.png</file>
+      <file>nav_f.png</file>
+      <file>bc_s.png</file>
+      <file>doxygen.png</file>
+      <file>closed.png</file>
+      <file>open.png</file>
+      <file>bdwn.png</file>
+      <file>sync_on.png</file>
+      <file>sync_off.png</file>
+      <file>doxygen.css</file>
+      <file>jquery.js</file>
+      <file>dynsections.js</file>
+      <file>search/search_l.png</file>
+      <file>search/search_m.png</file>
+      <file>search/search_r.png</file>
+      <file>search/close.png</file>
+      <file>search/mag_sel.png</file>
+      <file>search/search.css</file>
+      <file>search/search.js</file>
+      <file>changepassword_8h_source.html</file>
+      <file>checkonline_8h_source.html</file>
+      <file>login_8h_source.html</file>
+      <file>mainwindow_8h_source.html</file>
+      <file>registration_8h_source.html</file>
+      <file>handlemessagethread_8h_source.html</file>
+      <file>listenthread_8h_source.html</file>
+      <file>myserver_8h_source.html</file>
+      <file>returnmessage_8h_source.html</file>
+      <file>tests_8h_source.html</file>
+      <file>class_change_password.html</file>
+      <file>class_change_password__inherit__graph.png</file>
+      <file>class_change_password__inherit__graph.pdf</file>
+      <file>class_change_password__coll__graph.png</file>
+      <file>class_change_password__coll__graph.pdf</file>
+      <file>class_change_password-members.html</file>
+      <file>classcheck_online.html</file>
+      <file>classcheck_online__inherit__graph.png</file>
+      <file>classcheck_online__inherit__graph.pdf</file>
+      <file>classcheck_online__coll__graph.png</file>
+      <file>classcheck_online__coll__graph.pdf</file>
+      <file>classcheck_online-members.html</file>
+      <file>classhandle_message_thread.html</file>
+      <file>classhandle_message_thread__inherit__graph.png</file>
+      <file>classhandle_message_thread__inherit__graph.pdf</file>
+      <file>classhandle_message_thread__coll__graph.png</file>
+      <file>classhandle_message_thread__coll__graph.pdf</file>
+      <file>classhandle_message_thread-members.html</file>
+      <file>class_listen_thread.html</file>
+      <file>class_listen_thread__inherit__graph.png</file>
+      <file>class_listen_thread__inherit__graph.pdf</file>
+      <file>class_listen_thread__coll__graph.png</file>
+      <file>class_listen_thread__coll__graph.pdf</file>
+      <file>class_listen_thread-members.html</file>
+      <file>class_log_in.html</file>
+      <file>class_log_in__inherit__graph.png</file>
+      <file>class_log_in__inherit__graph.pdf</file>
+      <file>class_log_in__coll__graph.png</file>
+      <file>class_log_in__coll__graph.pdf</file>
+      <file>class_log_in-members.html</file>
+      <file>class_main_window.html</file>
+      <file>class_main_window__inherit__graph.png</file>
+      <file>class_main_window__inherit__graph.pdf</file>
+      <file>class_main_window__coll__graph.png</file>
+      <file>class_main_window__coll__graph.pdf</file>
+      <file>class_main_window-members.html</file>
+      <file>class_my_server.html</file>
+      <file>class_my_server__inherit__graph.png</file>
+      <file>class_my_server__inherit__graph.pdf</file>
+      <file>class_my_server__coll__graph.png</file>
+      <file>class_my_server__coll__graph.pdf</file>
+      <file>class_my_server-members.html</file>
+      <file>class_registration.html</file>
+      <file>class_registration__inherit__graph.png</file>
+      <file>class_registration__inherit__graph.pdf</file>
+      <file>class_registration__coll__graph.png</file>
+      <file>class_registration__coll__graph.pdf</file>
+      <file>class_registration-members.html</file>
+      <file>classreturn_message.html</file>
+      <file>classreturn_message__inherit__graph.png</file>
+      <file>classreturn_message__inherit__graph.pdf</file>
+      <file>classreturn_message__coll__graph.png</file>
+      <file>classreturn_message__coll__graph.pdf</file>
+      <file>classreturn_message-members.html</file>
+      <file>classtests.html</file>
+      <file>classtests__inherit__graph.png</file>
+      <file>classtests__inherit__graph.pdf</file>
+      <file>classtests__coll__graph.png</file>
+      <file>classtests__coll__graph.pdf</file>
+      <file>classtests-members.html</file>
+      <file>graph_legend.png</file>
+      <file>graph_legend.html</file>
+      <file>dir_ec34c6d74e09f6a41b9650477fd5d153.html</file>
+      <file>dir_1a445cb237d74f7a5f8d11ec3b0585cc.html</file>
+      <file>index.html</file>
+      <file>annotated.html</file>
+      <file>classes.html</file>
+      <file>hierarchy.html</file>
+      <file>inherits.html</file>
+      <file>inherit_graph_0.png</file>
+      <file>inherit_graph_1.png</file>
+      <file>inherit_graph_2.png</file>
+      <file>inherit_graph_3.png</file>
+      <file>inherit_graph_4.png</file>
+      <file>functions.html</file>
+      <file>functions.html</file>
+      <file>functions.html</file>
+      <file>functions.html</file>
+      <file>functions.html</file>
+      <file>functions.html</file>
+      <file>functions.html</file>
+      <file>functions.html</file>
+      <file>functions.html</file>
+      <file>functions.html</file>
+      <file>functions_func.html</file>
+      <file>functions_func.html</file>
+      <file>functions_func.html</file>
+      <file>functions_func.html</file>
+      <file>functions_func.html</file>
+      <file>functions_func.html</file>
+      <file>functions_func.html</file>
+      <file>functions_func.html</file>
+      <file>functions_func.html</file>
+      <file>functions_func.html</file>
+      <file>files.html</file>
+    </files>
+  </filterSection>
+</QtHelpProject>
